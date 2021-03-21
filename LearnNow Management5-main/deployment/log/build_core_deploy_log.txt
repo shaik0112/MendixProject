@@ -1,0 +1,9 @@
+Buildfile: C:\Users\Salma\Documents\Mendix\LearnNow Management5-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 32 files to C:\Users\Salma\Documents\Mendix\LearnNow Management5-main\deployment
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+

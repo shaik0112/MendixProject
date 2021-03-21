@@ -1,0 +1,12 @@
+Buildfile: C:\Users\Salma\Documents\Mendix\LearnNow Management5-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 1 source file to C:\Users\Salma\Documents\Mendix\LearnNow Management5-main\deployment\run\bin
+
+package:
+      [jar] Building jar: C:\Users\Salma\Documents\Mendix\LearnNow Management5-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+
+

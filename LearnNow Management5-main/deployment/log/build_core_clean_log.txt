@@ -1,0 +1,9 @@
+Buildfile: C:\Users\Salma\Documents\Mendix\LearnNow Management5-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\Salma\Documents\Mendix\LearnNow Management5-main\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
